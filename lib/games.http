@@ -1,0 +1,1 @@
+GET https://api.rawg.io/api/games?key=dc909aed6a194fa2ad5ca705105bc1e6&metacritic=1&dates=2024-01-01,2024-11-10&metacritic=1&ordering=-metacritic
